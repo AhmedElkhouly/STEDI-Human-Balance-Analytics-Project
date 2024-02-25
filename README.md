@@ -56,7 +56,7 @@ Using The AWS glue data catalog, I created a glue tables so that I can query the
 
 1- Customer Landing Table:
 
-![alt text](Sample Pics/customer_landing.png)
+![alt text](Sample20%Pics/customer_landing.png)
 
 2- Accelerometer Landing Table: 
 
