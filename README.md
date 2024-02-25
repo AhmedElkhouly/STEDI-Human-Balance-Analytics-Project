@@ -29,7 +29,7 @@ I'll use the data from the STEDI Step Trainer and mobile app to develop a lakeho
 I'll also need a github repository to store SQL scripts and Python code in.
 
 #### Workflow Environment Configuration
-Create Python scripts using AWS Glue and Glue Studio. These web-based tools and services contain multiple options for editors to write or generate Python code that uses PySpark. Remember to save any code you develop or run in these editors on AWS to a local Github Repository.
+Create Python scripts using AWS Glue and Glue Studio.I saved the python codes that have been generated into this Repository.
 ## Project Data
 STEDI has [three JSON data sources](https://github.com/udacity/nd027-Data-Engineering-Data-Lakes-AWS-Exercises/tree/main/project/starter "Project's Data") to use from the Step Trainer. Check out the JSON data in the following folders in the Github repo linked above:
 - customer
