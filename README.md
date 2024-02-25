@@ -60,11 +60,11 @@ Using The AWS glue data catalog, I created a glue tables so that I can query the
 
 2- Accelerometer Landing Table: 
 
-![alt text](Sample Pics/accelerometer_landing.png)
+![alt text](SamplePics/accelerometer_landing.png)
 
 3- Step Trainer Landing Table: 
 
-![alt text](Sample Pics/step_trainer_landing.png)
+![alt text](SamplePics/step_trainer_landing.png)
 
 </details>
 
@@ -85,7 +85,7 @@ Trusted Zone
 
 The customer_trusted table was queried in Athena to show that it only contains customer records from people who agreed to share their data.
 
-![alt text](Sample Pics/customer_trusted_sharwithreasearchasofdate_null.png)
+![alt text](SamplePics/customer_trusted_sharwithreasearchasofdate_null.png)
 </details>
 
 <details>
